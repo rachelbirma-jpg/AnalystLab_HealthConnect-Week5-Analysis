@@ -61,4 +61,31 @@ She also tested the refined feature using Logistic Regression and Random Forest.
 - Dashboard screenshots
 
 ### Next Step
+
+
+## Week 7 — Testing, Refinement & Validation
+
+Week 7 focused on testing and refining the analytical work developed during Weeks 5 and 6.
+
+My Data Analytics work included:
+
+- Validating key HealthConnect KPIs.
+- Testing dashboard filters and calculations.
+- Validating booking lead-time and previous no-show history findings.
+- Testing booking lead time together with reminder status.
+- Refining the Power BI dashboard with a Week 7 Validation & Refinement page.
+- Re-testing the analytical results after refinement.
+- Collaborating with the Data Science track to validate the combined finding.
+
+The Data Science collaboration independently verified the combined booking lead-time and reminder-status results and tested an interaction feature. The interaction feature produced only a small change in accuracy, from 0.631 to 0.633, while short-lead-time recall remained at 6.1%, so it was not adopted.
+
+The Week 7 work is documented in the `Week 7 HealthConnect Testing & Refinement` folder.
+
+### Week 7 Outputs
+
+- Week 7 Analytics Testing & Refinement Report
+- Week 7 Project Summary
+- Final Excel analysis and testing workbook
+- Updated Power BI dashboard
+- Week 7 testing and cross-track validation documentation
 For Week 7, I will test how booking lead time, reminder status and previous no-show history work together and whether combining these factors provides stronger predictive or decision-making value.
